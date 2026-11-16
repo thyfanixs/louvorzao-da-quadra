@@ -1,1 +1,76 @@
-{"v":3,"createdOnFiles":{"v":1,"at":"2026-11-16T13:45:00Z"},"title":"Louvorzão 2027 — Carrossel Era 2026 → Era 2027","launch":{"view":"canvas"},"pages":[],"boards":{"Main.dc.html":{"x":0,"y":0,"w":1080,"h":1350,"title":"1 · Fim da Era 2026"},"Card2.dc.html":{"x":1160,"y":0,"w":1080,"h":1350,"title":"2 · Foi louvor"},"Card3.dc.html":{"x":2320,"y":0,"w":1080,"h":1350,"title":"3 · Não acabou aqui"},"Card4.dc.html":{"x":3480,"y":0,"w":1080,"h":1350,"title":"4 · Era 2027 — Praticantes da Palavra"},"Card5.dc.html":{"x":4640,"y":0,"w":1080,"h":1350,"title":"5 · Salve a data"}},"order":["Main.dc.html","Card2.dc.html","Card3.dc.html","Card4.dc.html","Card5.dc.html"],"notes":{"titulo":{"x":0,"y":-300,"text":"Carrossel Instagram 4:5 — Encerrando a Era 2026, começando a Era 2027","kind":"title1","maxW":5720}},"designSystems":[]}
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "Card2.dc.html": {
+      "h": 1350,
+      "title": "2 · Foi louvor",
+      "w": 1080,
+      "x": 1160,
+      "y": 0
+    },
+    "Card3.dc.html": {
+      "h": 1350,
+      "title": "3 · Não acabou aqui",
+      "w": 1080,
+      "x": 2320,
+      "y": 0
+    },
+    "Card4.dc.html": {
+      "h": 1350,
+      "title": "4 · Era 2027 — Praticantes da Palavra",
+      "w": 1080,
+      "x": 3480,
+      "y": 0
+    },
+    "Card5.dc.html": {
+      "h": 1350,
+      "title": "5 · Salve a data",
+      "w": 1080,
+      "x": 4640,
+      "y": 0
+    },
+    "Main.dc.html": {
+      "h": 1350,
+      "title": "1 · Fim da Era 2026",
+      "w": 1080,
+      "x": 0,
+      "y": 0
+    },
+    "Imagens.dc.html": {
+      "h": 4200,
+      "title": "Banco de imagens",
+      "w": 2400,
+      "x": 0,
+      "y": 1470
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-11-16T13:45:00Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "launch": {
+    "view": "canvas"
+  },
+  "notes": {
+    "titulo": {
+      "kind": "title1",
+      "maxW": 5720,
+      "text": "Carrossel Instagram 4:5 — Encerrando a Era 2026, começando a Era 2027",
+      "w": 240,
+      "x": 0,
+      "y": -300
+    }
+  },
+  "order": [
+    "Main.dc.html",
+    "Card2.dc.html",
+    "Card3.dc.html",
+    "Card4.dc.html",
+    "Card5.dc.html",
+    "Imagens.dc.html"
+  ],
+  "pages": [],
+  "title": "Louvorzão 2027 — Carrossel Era 2026 → Era 2027"
+}
