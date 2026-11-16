@@ -12,7 +12,7 @@ Evento evangelístico anual de louvor e adoração na quadra do bairro Barbosa, 
 divulgacao/
   2027-carrossel-era/      Carrossel "Fim da Era 2026 → Era 2027" (Instagram 4:5)
     canvas/                Arquivos das artes (canvas.json + 5 cards .dc.html)
-    assets/                Fotos tratadas, recortes, texturas e logo
+    assets/                Texturas e logo (fotos de pessoas ficam fora do repo)
     legendas.md            Legendas do post
 ```
 
@@ -32,3 +32,7 @@ Estilo: colagem com fotos P&B em retícula, pessoas recortadas em cor com contor
 ## Versões
 
 As versões são marcadas com tags (`v1`, `v2`, `v3`…). Veja `git log` / aba *Tags*.
+
+## Fotos
+
+As fotos do evento (originais, tratadas e recortes) **não** ficam no repositório, porque ele é público. Originais: pasta "Louvor da Quadra" no Google Drive.
