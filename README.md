@@ -31,7 +31,7 @@ Estilo: colagem com fotos P&B em retícula, pessoas recortadas em cor com contor
 
 ## Versões
 
-As versões são marcadas com tags (`v1`, `v2`, `v3`…). Veja `git log` / aba *Tags*.
+Cada versão é um commit que começa com `v1:`, `v2:`, `v3:`… Veja o histórico de commits (aba *Commits*).
 
 ## Fotos
 
