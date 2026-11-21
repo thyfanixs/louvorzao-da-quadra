@@ -14,6 +14,7 @@ divulgacao/
     canvas/                Arquivos das artes (canvas.json + 5 cards .dc.html)
     assets/                Texturas e logo (fotos de pessoas ficam fora do repo)
     legendas.md            Legendas do post
+  2027-versiculo-base/     Post 2: carrossel do versículo base (Tiago 1:22-25)
 ```
 
 ## Identidade visual
